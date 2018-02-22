@@ -1,0 +1,758 @@
+{
+  "section": 1,
+  "chapter": 5,
+  "episode": [
+    {
+      "frame": 0,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "兰",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 1,
+      "type": 0,
+      "speaker": null,
+      "content": "我弯下腰，朝少女的脸颊伸出手",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 2,
+      "type": 0,
+      "speaker": null,
+      "content": "从窗外灌进早已变强的雪花",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 3,
+      "type": 0,
+      "speaker": null,
+      "content": "雪花仿佛要把兰那白色的脸庞给冻住似的。我将手掌敷在她脸上，希望至少能给她带去一丝温暖。",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 4,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "兰",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 5,
+      "type": 0,
+      "speaker": null,
+      "content": "但我是知道的......",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 6,
+      "type": 0,
+      "speaker": null,
+      "content": "我的手已经没有任何温度。早已冻得不行。",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 7,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "兰",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 8,
+      "type": 0,
+      "speaker": null,
+      "content": "从两年前的那天开始，兰变成了一个沉寂的人偶。",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 9,
+      "type": 0,
+      "speaker": null,
+      "content": "灵魂被木花咲耶夺走了",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 10,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "我找到了喔，连着你灵魂的线",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 11,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "我会取回的，取回你的灵魂",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 12,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "不只是你",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 13,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "大家的灵魂，我都会救回",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 14,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "早已消亡的他们......无法回报的这份心意，我会用这双手取回",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 15,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "作为Ghost的王",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 16,
+      "type": 0,
+      "speaker": null,
+      "content": "......",
+      "bg": "bg/ev_sb01_xxx.png",
+      "animation": null,
+      "bgm": "THEME_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 1
+    },
+    {
+      "frame": 17,
+      "type": 0,
+      "speaker": "兰",
+      "content": "那个，初雪",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1704.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 18,
+      "type": 0,
+      "speaker": "兰",
+      "content": "虽然还有点早，不过我们来做个约定吧",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1706.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 19,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "什么啊，这么正式",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 20,
+      "type": 0,
+      "speaker": "兰",
+      "content": "一定要从学校毕业啊",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1710.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_ega.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 21,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "啥？毕业？还真是很早的话题呢",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_ega.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 22,
+      "type": 0,
+      "speaker": "兰",
+      "content": "嗯。我想在这之后，肯定会有很多痛苦的回忆，虽然那些或许会跟学校有关，或许无关",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1714.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_kana.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 23,
+      "type": 0,
+      "speaker": "兰",
+      "content": "那个学校是初雪第一次......在这座城市里怀着这样的想法去努力，然后入学的地方.....",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1716.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_kana2.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 24,
+      "type": 0,
+      "speaker": "兰",
+      "content": "我希望你可以从那里好好地毕业",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1718.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 25,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "毕业什么的，只是一个小阶段罢了，会有什么意义啊",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 26,
+      "type": 0,
+      "speaker": "兰",
+      "content": "就算是一个小阶段，也是一个终点哦",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1722.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_maga2.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 27,
+      "type": 0,
+      "speaker": "兰",
+      "content": "或许你认为毫无价值，无聊透顶的事情，其实它们的本质或许是十分纯粹、美丽的东西也说不定",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1724.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e1_base.png",
+          "face": "bs_ra/bs_ra_a_kana.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 28,
+      "type": 0,
+      "speaker": "兰",
+      "content": "只有经过时间的冲刷，你才可能注意到它们",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1726.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_maga2.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 29,
+      "type": 0,
+      "speaker": "兰",
+      "content": "或许正是因为前进之后再去回顾，才能清晰地望见当时被什么所朦胧的风景",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1728.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 30,
+      "type": 0,
+      "speaker": "兰",
+      "content": "所以前进吧，穿过阻碍知道最后.....直到那时候再回过头去，那才是最重要的",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1730.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_ega2.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 31,
+      "type": 0,
+      "speaker": "兰",
+      "content": "为了回报自己，还有那些令人怀念的人们",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": "ch5/1732.mp3",
+      "figures": [
+        {
+          "base": "bs_ra/bs_ra_a_e2_base.png",
+          "face": "bs_ra/bs_ra_a_hoho.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 32,
+      "type": 0,
+      "speaker": null,
+      "content": "纯白的灵魂开始飘落在这片大地上，仿佛要把城市里活着的人全部吞噬一般",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 33,
+      "type": 0,
+      "speaker": null,
+      "content": "终于迎来了冬日的结末......",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 34,
+      "type": 0,
+      "speaker": null,
+      "content": "毫无疑问，我将会率领着Ghost把这座城市毁灭。",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 35,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "......",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 36,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "玉树.....",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 37,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "这不是雪",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 38,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "而是灵魂",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": "yuki",
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 1
+    },
+    {
+      "frame": 39,
+      "type": 0,
+      "speaker": "？？",
+      "content": "在这家酒店，许多的人们死去了",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 40,
+      "type": 0,
+      "speaker": "？？",
+      "content": "对您来说重要的人们的灵魂，至今仍在这个地方徘徊着",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 41,
+      "type": 0,
+      "speaker": "？？",
+      "content": "直至您完成复仇为止",
+      "bg": "bg/bg_shu_yoru_gray.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 42,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "......",
+      "bg": "bg/bg_shu_yoru.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 1
+    },
+    {
+      "frame": 43,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "毕业么",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 44,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "那种事情怎样都无所谓了",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 45,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "我早已无所谓到达春天",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 46,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "比起那些，在最后的冬日开始吧",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 47,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "向这个罪孽深恶的街道",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 48,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "......",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 49,
+      "type": 0,
+      "speaker": "初雪",
+      "content": "复仇",
+      "bg": "bg/hatuyukigost2.png",
+      "animation": null,
+      "bgm": "BGM29.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 5 12月25日",
+      "transitions": 0
+    },
+    {
+      "frame": 50,
+      "type": 1,
+      "url": "../static/gal_op/hatuyuki_op.mp4",
+      "desc": "op",
+      "title": "はつゆきさくら(初雪樱) v0.0.1 OP - Hesitation Snow",
+      "bgm": null,
+      "transitions": 0
+    }
+  ],
+  "next": {
+    "menu": true
+  }
+}

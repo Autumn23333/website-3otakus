@@ -1,0 +1,3769 @@
+{
+  "section": 1,
+  "chapter": 1,
+  "episode": [
+    {
+      "frame": 0,
+      "type": 3,
+      "bg": "bg/zzz_c_01.png",
+      "bgm": null,
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 1,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "呐呐，你知道Ghost么？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0015.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 2,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "怎么了？　是英语的问题？　Ghost……幽灵？　还是说混乱的影像？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10049.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 3,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "不是啦，应该说是都市传说吧。最近，这都成为话题了哦",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0019.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 4,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "啊——。是这方面呀……。最近光顾着学习，都没怎么去了解这些东西了呢。倒是你还真有闲心啊。还有时间去八卦这些传闻",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10053.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 5,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "我也没那么闲啦。只是补习学校里某个很喜欢这些传闻的人，在上课的时候强行灌输给我的",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0023.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 6,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "那，Ghost到底怎么了",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10057.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 7,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "好像出现了呢，在旧街区的附近",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0027.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 8,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "啊，确实很有那种感觉呢。但是，在很久以前那附近不就是灵异地点么。为什么现在才有谣言传出来？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10061.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 9,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "最近，好像接连发生了失踪事件呢",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0031.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 10,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "然后呢，很多人都目击到那些失踪的孩子是被Ghost带走的",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0033.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 11,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "嗯——。失踪啊，真的是Ghost的原因么",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10067.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 12,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "这个時期，大家都在忍耐着吧",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10069.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 13,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "Ｃ班那个人是叫武田来着？为了逃避考试的压力而偷偷地跑去滑雪。让惊慌失措的家长向警察提出了搜索申请，因此还引起了不小的骚动呢",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10071.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 14,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "比Ghost还恐怖的东西就是考试了",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0041.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 15,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "啊，我也想失踪到没有考试，什么都没有的世界去啊",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10075.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 16,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "别垂头丧气了啦",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0045.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 17,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "到头来Ghost这种东西到底长什么样子？为什么能知道它是Ghost呢？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10079.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 18,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "谁知道呢？　是不是因为它一副Ghost的样子呢？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0049.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 19,
+      "type": 0,
+      "speaker": "谣言Ａ",
+      "jp_speaker": "",
+      "content": "那算什么啊。不也就是说，有点像那个嘛。以讹传讹，就像集体暗示一样，把柳树都看成Ghost么？",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/10083.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 20,
+      "type": 0,
+      "speaker": "谣言Ｂ",
+      "jp_speaker": "",
+      "content": "差不多啦，就是这样的事情嘛",
+      "jp_content": "",
+      "bg": "bg/ev_sb02.png",
+      "animation": null,
+      "bgm": "BGM23.mp3",
+      "voice": "ch1/0053.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 21,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "嗯？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 22,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "正在迷迷糊糊地打着盹，没想到被手机的震动给弄醒了。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 23,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "是短信。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 24,
+      "type": 0,
+      "speaker": "短信",
+      "jp_speaker": "",
+      "content": "今天真冷呢。但是一想到你，心头就会不可思议地暖和起来。呐，现在可以和你见面吗？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/30107.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 25,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "看了下发件人，我瞬间皱起了眉头。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 26,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "（见鬼，来栖那家伙么）",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 27,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "我赶紧关上手机，来回看了下周围的状况。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 28,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "现在的话……本来应该是上课时间的，但是黑板上写着大大的『自习』二字。而且讲台上也没有老师，仅仅只是堆着些资料而已。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 29,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "马上就要到下课时间了，大部分的学生都像是课间休息一样谈笑着。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 30,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "在我附近的座位，有两个女生正背对着我大声聊天。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 31,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "这段时期的对话一般都是找机会来宣泄应考学习的压力。然而从我这边听起来感觉她们好像兴趣盎然的样子，难道是我的错觉么。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 32,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "喂",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 33,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "我打断了她们的对话。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 34,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "诶？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10115.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 35,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "看到是我，那女生瞬间瞪大了眼睛。眼神中透露出一丝畏惧。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 36,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "有什么事么",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10119.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 37,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "那个啊，有点事想拜托一下……可以么？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 38,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "不，不行！",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10123.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 39,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "……哈？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 40,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "对于反问的我，那女生就像意识到刚才说了什么糟糕的事一般连忙把嘴掩住，随后慌张地左右摆动双手。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 41,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "啊、啊、对、对不起！那个、我、我可是什么都没有做哦",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10131.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 42,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "…………",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 43,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "该怎么说呢……。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 44,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "被平时没有任何接点的我搭话，她明显心存畏惧。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 45,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "首先应该确认下名字，不让她降低点警戒心可不行。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 46,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "那个，你叫什么来着？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 47,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "……久美子",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10141.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 48,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "久美子？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 49,
+      "type": 0,
+      "speaker": "女学生Ａ",
+      "jp_speaker": "",
+      "content": "久美子",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10145.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 50,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "就算她跟我说她叫久美子，但我连同班同学的姓都不太记得，更别说名字了。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 51,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "姓是？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 52,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "那个……请饶了我吧",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10151.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 53,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "为什么？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 54,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "我的家人。请不要对我的家人出手！",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10155.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 55,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "我没有对谁出手的打算，我只不过是有个请求而已",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 56,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "请求……？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10159.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 57,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "不对……。如果来栖过来了就和她说，从今天早上开始就没看见过我，这样？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 58,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "从早上开始就没来……",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10163.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 59,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "是作不在场的证明么？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10165.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 60,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "是那样的事情么？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 61,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "现在准备去杀谁么？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10169.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 62,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "…………啊？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 63,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "对对对、对不起！　问了不该问的事情！",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10173.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 64,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "不，你在说什么啊",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 65,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "明白了。明白了",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10177.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 66,
+      "type": 0,
+      "speaker": "久美子",
+      "jp_speaker": "",
+      "content": "我不会对任何人说的，所以请不要对我的家人出手",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": "ch1/10179.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 67,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "…………",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 68,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "她究竟认为我是个怎样的人啊。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 69,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊……？",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 70,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "不知什么时候，我注意到同学们都战战兢兢地往这边窥视着。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 71,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "不过这怎么看，都像是我在欺负久美子的样子。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 72,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "看你妹啊看",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 73,
+      "type": 0,
+      "speaker": "同班同学",
+      "jp_speaker": "",
+      "content": "…………",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 74,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "无视条件反射般将视线移开的同学，我离开了教室。",
+      "jp_content": "",
+      "bg": "bg/bg_g_kyou_hiru.png",
+      "animation": null,
+      "bgm": "BGM02_2_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 75,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "我居然对那些无聊的事情生气了。",
+      "jp_content": "",
+      "bg": "bg/bg_gako_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 76,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_gako_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 77,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "外面寒冷的空气，直勾勾地袭向之前被空调温暖的脸颊。",
+      "jp_content": "",
+      "bg": "bg/bg_gako_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 78,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "厚实的云层笼罩着天空，宛如马上就会落下来一般。照这种情形的话，可能会下雪吧。",
+      "jp_content": "",
+      "bg": "bg/bg_gako_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 79,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "头开始疼了。",
+      "jp_content": "",
+      "bg": "bg/bg_gako_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 80,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "冷死了冷死了……",
+      "jp_content": "",
+      "bg": "bg/bg_g_mon_hiru.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 82,
+      "type": 4,
+      "bg": "bg/bg_sora_yuu.png",
+      "animation": {
+        "type": 2,
+        "time": 1000,
+        "direction": "E"
+      },
+      "bgm": "BGM15.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 83,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "冷死了冷死了",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yuu.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 84,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "离开学校后我虽然来到车站附近，但是既没有人陪我消磨时间，手头也没有闲钱。",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yuu.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 85,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "话虽如此，但我也并不打算回家。就在这样胡乱游荡的时候，身体被寒冬完全冷透了。",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yuu.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 86,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "等回过神来的时候，天空已经下起了淅淅沥沥的小雨。",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yuu.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 87,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "还是去商场逛逛吧……",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yuu.png",
+      "animation": null,
+      "bgm": "BGM15.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 88,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "呼。好冷啊好冷啊",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 89,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "在快餐店里打发着时间，不一会儿就日落了。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 90,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "因为回家的上班族而即将变得热闹的大街上，我把身体缩成一团，一个人在街上漫步。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 91,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "因为完成工作的解放感和在回家路上的安心感，即使是这样寒冷的天气也丝毫不影响行人脸上那明亮而安详的表情。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 92,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "哈啊……",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 93,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "……去喝点暖和的东西吧。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 94,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "我开始边走边寻找附近的自动贩卖机。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 95,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "嗯？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 96,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "一个白色的东西滑过昏暗的天空。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": null,
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 97,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊，是雪",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 98,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": "",
+      "content": "从傍晚开始下的雨，不知什么时候成了雪。",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 99,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 100,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "冷死了冷死了",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 101,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我加快脚步，向着路边那台泛着朦胧灯光的自动贩卖机走去。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 102,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "喝点年糕小豆汤好了",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 103,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "在寒冷的日子，喝酒或者甜的东西才是王道啊。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 104,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜唧～",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": "ch1/10255.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 105,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 106,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "从脚边传来奇怪的声音。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 107,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM05_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 108,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 109,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "什么啊，这家伙。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 110,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "兔子……？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 111,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 112,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "这是，兔子吧？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 113,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "呜唧～",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": "ch1/10269.mp3",
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 114,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "它灵巧地用两只脚站着，露出大胆的表情面向这边。估计这是上发条的玩具什么的吧。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 115,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "可是又像真的兔子一样。那赤红的双眼仿佛有着自己的意识，咕噜咕噜地转动着。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 116,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "哼。一副令人毛骨悚然的样子呢",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 117,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 118,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "天不怕地不怕。也不怕人。这东西是家养的兔子么。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 119,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "看起来很暖和呢。能为了我变成围巾么",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 120,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "呜唧～",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 3
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": "ch1/10283.mp3",
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "offset": null,
+          "jump": true
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 121,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "兔子发出这种奇怪的声音跳了起来。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 3
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "offset": null,
+          "jump": true
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 122,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "这…………",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 123,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "从我的手心掠过，然后轻柔地在我背后着地。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM08_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "offset": null,
+          "jump": false
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 124,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "诶……？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": null,
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 125,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊啊！",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": null,
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 126,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我一看，手中的千元钞票没了。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": null,
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 127,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "然后那飘扬的钞票正衔在兔子的嘴里。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": null,
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 128,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "喂、喂喂",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 129,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "被兔子……偷了！？",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 130,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "在我目瞪口呆的当口，兔子潇洒地跑了，一瞬间就失去了踪影。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "move": [
+            "r",
+            1280,
+            500
+          ]
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 131,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "就一只死兔子，居然敢做小偷的勾当真是碉堡了。",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 132,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "喂，给我等等",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 133,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "你这个吊着两只耳的混蛋",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 134,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "呜唧～！",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": "ch1/10314.mp3",
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "move": [
+            "r",
+            1280,
+            500
+          ]
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 135,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "妈的。呜唧～个什么毛啊",
+      "jp_content": "",
+      "bg": "bg/bg_kousa_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 136,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "给我等等！",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11"
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 137,
+      "type": 0,
+      "speaker": "兔子",
+      "jp_speaker": "",
+      "content": "呜唧～！",
+      "jp_content": "",
+      "bg": "bg/bg_eki_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": "ch1/10320.mp3",
+      "figures": [
+        {
+          "base": "bs_nm/bs_nm_a_f1_base.png",
+          "face": "bs_nm/bs_nm_a_maga.png",
+          "position": "11",
+          "move": [
+            "r",
+            1280,
+            500
+          ]
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 138,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "哈啊、哈啊……",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 139,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "那只死兔子不知道跑到哪里去了。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 140,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊？",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM16_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 141,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "这里不是……旧街区的附近么。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 142,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "一直追着兔子，居然来到了这个地方。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 143,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "空无一人的街道上，点着的旧街灯朦朦胧胧地将周围照亮。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 144,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "看不到兔子的身影。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 145,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "呼……",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 146,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我靠着护栏，等心情平静下来。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 147,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 148,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "旧街区。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 149,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "以旧内田车站为中心而发展起来的街市。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 150,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "但是，因为内田市和川边市的统合，车站和政府机关都移走了。这里很快就被空洞化，变成了废墟。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 151,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "如果将旧市政府周边铲平建成公园该有多好啊。但因为权力和利益复杂地交织着，这里已经被放置了１０年没人管了。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 152,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "不可思议的是，这里并没有变成混混聚集地。黑白两道的人都不会轻易接近这里。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 153,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "宛如，真正的Ghost Town。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 154,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "哈啊……",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 155,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "即使是跑来跑去暖和了的身体，在这种寂静的气氛和寒冷的空气中也很快就冷了下来。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 156,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "切",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 157,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "莫名其妙地郁闷起来，我不由得咂了咂嘴。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 158,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "想想看，为了1000日元我到底在干什么。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 159,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我把沾在头发上的雪拍落下去。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 160,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "哼",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 161,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "到了下雪的季节，心情就会无可奈何地变得忧郁。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 162,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "因为名字的原因，别人好像都认为我非常喜欢冬天这个季节，真是荒唐至极。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 163,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我讨厌冬天。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 164,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "切，那只死兔子，让我抓到绝对整只烤了",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 165,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜、呜呜。呜诶嗯。呜呜……",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0349.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 166,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "啊？",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 167,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "哭声？",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 168,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜呜啊啊啊啊啊",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0349.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 169,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "我确实听到了。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 170,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜呜、呜呜。呜啊啊啊啊啊",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0349.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 171,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "有谁正在哭泣着。",
+      "jp_content": "",
+      "bg": "bg/bg_k_sigai_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 172,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "什么啊",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 173,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜、呜呜。呜诶——。呜呜……",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0349.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 174,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "在这种地方，到底是谁在哭啊……",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 175,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "虽然感觉这哭声毛骨悚然，但我还是朝哭声那边走去。",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 176,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "那是",
+      "jp_content": "",
+      "bg": "bg/bg_sora_yoru.png",
+      "animation": {
+        "type": 0
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 177,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呜呜啊啊啊啊啊",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0349.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 178,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "少女的哭声听上去，就像在大街两边并排矗立着的空旷大楼之间回荡。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 179,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "那家伙……",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 180,
+      "type": 0,
+      "speaker": "声",
+      "jp_speaker": "",
+      "content": "呐呐。你知道Ghost么？",
+      "jp_content": "",
+      "bg": "bg/bg_siro.png",
+      "animation": null,
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0015.mp3",
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 181,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "被勾起兴趣的我向那里走去。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 182,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "女的？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 1
+    },
+    {
+      "frame": 183,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "一走到街灯下我就看清楚了，那是一个穿着白色礼服的少女。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 184,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "可是，就算看到发出哭声的正体，我的混乱还远没有平息。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 185,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "为什么在这偏僻的地方，会有穿着礼服，像是要参加舞会的少女坐着啊。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 186,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "喂",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 187,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0388.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 188,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "你在干嘛？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 189,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "面对少女的身姿，就算是我，在语气上也有点顾虑。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 190,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "她头上积着雪，肩膀露在外面……看着都觉得冷得要命。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 191,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "这家伙到底在干什么啊。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 192,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "为什么在哭啊",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 193,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "眼睛都哭肿了的少女抬头看了我一下。一脸神情恍惚的呆呆的表情。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 194,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "……",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0401.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 195,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "没事吧",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 196,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "啊……",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0405.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kyo.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 197,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "？　怎么了",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kyo.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 198,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "呜呜",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0409.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 199,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "感觉她非常拼命地摇着头。少女再次呆呆地抬起头看着我。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 200,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "即使在这种地方被不认识的男的搭话，好像她也没有感到害怕啊。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 201,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "等她稍微冷静一下，或许就能搭上话了吧。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 202,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "你在这里干什么呢，我说",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 203,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "说起来，这种天气你还穿着这身衣服。我看上去都觉得冷了",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 204,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "那个",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0421.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kyo.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 205,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "我在找东西",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0423.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 206,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "外套搞不见了？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 207,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "兔子",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0427.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 208,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "什么？兔子？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 209,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "嗯…………",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0431.mp3",
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_tere.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 210,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "找兔子的话，为什么要在这种地方晃悠啊",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 211,
+      "type": 0,
+      "speaker": null,
+      "jp_speaker": null,
+      "content": "……不过这也不能说别人，我在心里自嘲道。",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 212,
+      "type": 0,
+      "speaker": "不可思议的少女",
+      "jp_speaker": "",
+      "content": "你",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": "ch1/0437.mp3",
+      "figures": [
+        {
+          "base": "bs2_sa/bs2_sa_a_d1_base.png",
+          "face": "bs2_sa/bs2_sa_a_kyo.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    },
+    {
+      "frame": 213,
+      "type": 0,
+      "speaker": "初雪",
+      "jp_speaker": "",
+      "content": "噢？",
+      "jp_content": "",
+      "bg": "bg/bg_h_mae_yoru.png",
+      "animation": {
+        "type": 1
+      },
+      "bgm": "BGM06_MIX.mp3",
+      "voice": null,
+      "figures": [
+        {
+          "base": "bs_sa/bs_sa_a_d1_base.png",
+          "face": "bs_sa/bs_sa_a_kana.png",
+          "position": 11
+        }
+      ],
+      "title": "はつゆきさくら(初雪樱) v0.0.1 Chapter 1 12月5日",
+      "transitions": 0
+    }
+  ],
+  "next": {
+    "menu": true
+  }
+}
