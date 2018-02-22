@@ -1,0 +1,10 @@
+.idea/*
+target/*
+video/*
+web_old.xml
+log4j.xml
+._*
+src/main/java/mybatis/*
+src/main/java/spring/*
+src/main/webapp/WEB-INF/*.xml
+src/main/webapp/WEB-INF/*.properties

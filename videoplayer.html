@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<!--font awesome-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title>
+		Lplayer
+	</title>
+	<style type="text/css">
+		video::-webkit-media-controls{
+			display:none !important;
+		}
+
+		video::-moz-media-controls{
+			display:none !important;
+		}
+
+		video::-o-media-controls{
+			display:none !important;
+		}
+
+		video::media-controls{
+			display:none !important;
+		}
+		.control{
+			position: relative;
+			top: -32px;
+			width: 680px;
+			height: 30px;
+			background-color: grey;
+		}
+		.first_row{
+			height: 30px;
+			float: left;
+		}
+		#play{
+			height: 30px;
+			width: 40px;
+		}
+		#play:hover{
+			background-color: #f4f4f4;
+		}
+		#play_icon{
+			position: relative;
+			top: 2px;
+			left: 10px;
+			font-size: 26px;
+		}	
+	</style>
+</head>
+<body>
+	<video src="video/otk1-1.mp4" width="680" height="440" controls id="lplayer">		
+	</video>
+	<div class="control">
+		<div id="play" class="first_row">
+			<i class="fa fa-play" id="play_icon"></i>
+		</div>
+		<div id="progressbar" class="first_row">
+			
+		</div>
+		<div id="current_duration" class="first_row">
+			
+		</div>
+		<div id="volume" class="first_row">
+			
+		</div>
+		<div id="resolution" class="first_row">
+			
+		</div>
+		<div id="loop" class="first_row">
+			
+		</div>
+		<div id=" fullscreen" class="first_row">
+			
+		</div>
+	</div>
+	<script>
+		var video=document.getElementById("lplayer")
+		var play=document.getElementById("play");
+		play.onclick=function(){
+			if (video.paused) {
+				video.play();
+				document.getElementById("play_icon").className="fa fa-pause"
+			} else{
+				video.pause();
+				document.getElementById("play_icon").className="fa fa-play"
+			}
+		};
+	</script>
+</body>
+</html>

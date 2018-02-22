@@ -1,0 +1,108 @@
+body {
+    background-image: url(/image/webpage/green.jpg);
+    background-repeat: repeat-x;
+    margin: 0px;
+    font-family: Roboto, STKaiti, sans-serif;
+}
+
+#left {
+    width: 350px;
+    float: left;
+    position: fixed;
+    top: 8px;
+}
+
+#logo {
+    margin-left: 0.67em;
+}
+
+#news {
+
+}
+
+#menu {
+    position: fixed;
+    z-index: 5;
+}
+
+#menubook {
+    width: 250px;
+    height: 642px;
+    position: fixed;
+    top: 290px;
+    background-image: url(/image/webpage/menubook.png);
+}
+
+#menubook img {
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+
+@media screen and (max-height: 600px) {
+    #left {
+        width: 350px;
+        float: left;
+        position: absolute;
+        top: 8px;
+    }
+    #menu {
+        position: absolute;
+        z-index: 5;
+        top: 238px;
+    }
+    #menubook {
+        width: 250px;
+        height: 642px;
+        position: absolute;
+        top: 282px;
+        background-image: url(/image/webpage/menubook.png);
+    }
+}
+
+a:link {
+    color: inherit;
+}
+
+/* 未访问链接*/
+a:visited {
+    color: inherit;
+}
+
+/* 已访问链接 */
+a:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* 鼠标移动到链接上 */
+a:active {
+    color: inherit;
+}
+
+/* 鼠标点击时 */
+.menuitem {
+    text-align: left;
+    font-size: 18px;
+    height: 36px;
+    /*background: rgba(128,128,0,0.5);*/
+    padding-top: 12px;
+    margin-left: 30px;
+
+}
+
+.menuitem:hover {
+    text-align: left;
+    font-size: 19px;
+    height: 36px;
+    /*background: rgba(128,128,0,0.5);*/
+    padding-top: 12px;
+    margin-left: 30px;
+    color: #e62867;
+}
+
+.word-icon {
+    margin-right: 5px;
+    width: 20px;
+    text-align: right;
+}
