@@ -1,32 +1,20 @@
 package com.threeotakus.controller;
 
-<<<<<<< HEAD
 import com.github.mertakdut.BookSection;
 import com.github.mertakdut.Reader;
 import com.github.mertakdut.exception.OutOfPagesException;
 import com.github.mertakdut.exception.ReadingException;
-=======
->>>>>>> 8d712d304ca0f55b4b186ba23e9152661ef017bc
-import org.apache.log4j.PropertyConfigurator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.servlet.ModelAndView;
 
-<<<<<<< HEAD
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.regex.Pattern;
 
 // 注解标注此类为springmvc的controller，url映射为"/"
-=======
-import java.util.regex.Pattern;
-
-// 注解标注此类为springmvc的controller，url映射为"/3otakus"
->>>>>>> 8d712d304ca0f55b4b186ba23e9152661ef017bc
 @Controller
 @RequestMapping("")
 public class HomeController {
