@@ -8,15 +8,17 @@ public class User {
     private String password;
     private Date ctime;
     private int permission;
+    private String email;
 
     public User() {
     }
 
-    public User(int uid, String username, String password, Date ctime) {
+    public User(int uid, String username, String password, Date ctime, String email) {
         this.uid = uid;
         this.username = username;
         this.password = password;
         this.ctime = ctime;
+        this.email = email;
     }
 
     public int getUid() {
@@ -59,8 +61,23 @@ public class User {
         this.permission = permission;
     }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
     @Override
     public String toString() {
-        return "User{uid=" + uid + ", username=" + username + ", password=" + password + ", ctime=" + ctime.toString() + "}";
+        return "User{" +
+                "uid=" + uid +
+                ", username='" + username + '\'' +
+                ", password='" + password + '\'' +
+                ", ctime=" + ctime +
+                ", permission=" + permission +
+                ", email='" + email + '\'' +
+                '}';
     }
 }

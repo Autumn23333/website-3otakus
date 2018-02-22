@@ -1,6 +1,7 @@
 .idea/*
 target/*
 video/*
+galdata/*
 web_old.xml
 log4j.xml
 ._*
@@ -13,5 +14,7 @@ server_properties/*
 src/main/webapp/WEB-INF/static/bgm/*
 src/main/webapp/WEB-INF/static/video/*
 src/main/webapp/WEB-INF/static/voice/*
+src/main/webapp/WEB-INF/static/font-awesome/*
 src/main/webapp/WEB-INF/static/image/hatuyuki/*
-
+3otakus_springmvc.iml
+com.iml

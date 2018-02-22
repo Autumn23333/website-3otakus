@@ -13,6 +13,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
 
 // 注解标注此类为springmvc的controller，url映射为""
 @Controller
@@ -31,10 +32,12 @@ public class UserController {
 
     @RequestMapping(value = "/submitsignup", method = RequestMethod.POST)
     public ModelAndView user
-            (@RequestParam(value = "username") String username, @RequestParam(value = "password") String password) {
+            (@RequestParam(value = "username") String username,
+             @RequestParam(value = "password") String password,
+             @RequestParam(value = "email") String email) {
         ModelAndView model = new ModelAndView("signup_success");
         try {
-            int rs = userServ.insertUser(username, password);
+            int rs = userServ.insertUser(username, password, email);
             if (rs == 0) {
                 model.setViewName("signup");
                 model.addObject("msg", "Sign up failed. Please try again later");
@@ -61,7 +64,9 @@ public class UserController {
 
     @RequestMapping(value = "/login_check", method = RequestMethod.POST)
     public ModelAndView login_check
-            (@RequestParam(value = "username") String username, @RequestParam(value = "password") String password,
+            (@RequestParam(value = "username") String username,
+             @RequestParam(value = "password") String password,
+             @RequestParam(value = "remeberPwd", defaultValue = "Off") String remeberPwd,
              HttpServletResponse response, HttpServletRequest request) {
         ModelAndView model = new ModelAndView();
         model.setViewName("login_success");
@@ -80,16 +85,17 @@ public class UserController {
             model.setViewName("login");
             model.addObject("msg", "Username or password is wrong.");
         } else {
-            //自动登录cookie
-            Cookie userNameCookie = new Cookie("uname", user.getUsername());
-            Cookie passwordCookie = new Cookie("upid", LoginTool.pwd2cookiep(user.getPassword()));
-            userNameCookie.setMaxAge(LOGIN_MAX_TIME);
-            userNameCookie.setPath("/");
-            passwordCookie.setMaxAge(LOGIN_MAX_TIME);
-            passwordCookie.setPath("/");
-            response.addCookie(userNameCookie);
-            response.addCookie(passwordCookie);
-
+            if (remeberPwd.equals("on")) {
+                // Password remembered by setting cookie
+                Cookie userNameCookie = new Cookie("uname", user.getUsername());
+                Cookie passwordCookie = new Cookie("upid", LoginTool.pwd2cookiep(user.getPassword()));
+                userNameCookie.setMaxAge(LOGIN_MAX_TIME);
+                userNameCookie.setPath("/");
+                passwordCookie.setMaxAge(LOGIN_MAX_TIME);
+                passwordCookie.setPath("/");
+                response.addCookie(userNameCookie);
+                response.addCookie(passwordCookie);
+            }
             request.getSession().setAttribute("loginUser", user);
         }
         return model;
@@ -112,5 +118,17 @@ public class UserController {
         request.getSession().removeAttribute("loginUser");
 
         return "redirect:index";
+    }
+
+    @RequestMapping("/uname_existed")
+    public void uname_existed(@RequestParam("uname") String uname,
+                              HttpServletRequest request, HttpServletResponse response) throws Exception {
+        response.getWriter().write(userServ.checkUnameExisted(uname));
+    }
+
+    @RequestMapping("/email_existed")
+    public void email_existed(@RequestParam("email") String email,
+                              HttpServletResponse response) throws Exception {
+        response.getWriter().write(userServ.checkEmailExisted(email));
     }
 }
