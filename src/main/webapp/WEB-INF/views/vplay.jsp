@@ -13,7 +13,7 @@
 <body>
 <div id="left"></div>
 <div id="mid">
-    <video width="572px" height="860px" controls>
+    <video width="860px" height="572px" controls>
         <source src="${vaddr}" type="video/mp4">
     </video>
     <p>${title} <c:if test="${not empty ptitle}"> - ${ptitle}</c:if></p>

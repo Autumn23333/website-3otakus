@@ -146,7 +146,6 @@
             <artifactId>json</artifactId>
             <version>20180130</version>
         </dependency>
-
         <!-- epub reader-->
         <dependency>
             <groupId>com.github.mertakdut</groupId>
