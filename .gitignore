@@ -2,6 +2,7 @@
 target/*
 video/*
 galdata/*
+log/*
 web_old.xml
 log4j.xml
 ._*

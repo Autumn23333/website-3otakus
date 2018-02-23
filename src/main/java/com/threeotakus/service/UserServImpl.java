@@ -26,10 +26,13 @@ public class UserServImpl implements UserServ {
     public int insertUser(String username, String password, String email) throws Exception {
         BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
         String hashedPassword = passwordEncoder.encode(password);
-        User newuser = new User(-1, username, hashedPassword, new Date(), email);
+        User existedUser = userDAO.selectUserByNameEmail(username, email);
         int rs;
-        rs = userDAO.insertUser(newuser);
-        System.out.println("rs="+rs);
+        if (existedUser == null) {
+            User newuser = new User(-1, username, hashedPassword, new Date(), email);
+            rs = userDAO.insertUser(newuser);
+        } else
+            rs = -1;
         return rs;
     }
 

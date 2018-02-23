@@ -22,7 +22,10 @@ public class StringTable {
 
     public static String getValue(String key) {
         try {
-            return new String(prop.getProperty(key).getBytes("ISO-8859-1"), "UTF-8");
+            if (prop.getProperty(key) == null)
+                return "";
+            else
+                return new String(prop.getProperty(key).getBytes("ISO-8859-1"), "UTF-8");
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
             return "";
