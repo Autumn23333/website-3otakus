@@ -7,6 +7,9 @@
 		Lplayer
 	</title>
 	<style type="text/css">
+		body{
+			margin: 0;
+		}
 		video::-webkit-media-controls{
 			display:none !important;
 		}
@@ -42,24 +45,55 @@
 		}
 		#play_icon{
 			position: relative;
-			top: 2px;
-			left: 10px;
-			font-size: 26px;
-		}	
+			top: 4px;
+			left: 11px;
+			font-size: 22px;
+		}
+		#progressbar{
+			position: relative;
+			top: 12px;
+			width: 350px;
+			background-color:white;
+			height: 6px; 
+			border-radius: 4px;
+		}
+		#playedbar{
+			position: relative;
+			width: 0px;
+			background-color: #00a1d6;
+			height: 6px;
+			border-radius: 4px;
+		}
+		#drag_button{
+			position: relative;
+			top: -11px;
+			width: 15px;
+			background-color: white;
+			border:1px grey solid;
+			border-radius: 50%;
+			height: 15px;
+			cursor: pointer;
+		}
+		#drag_button:hover{
+			border:1px #00a1d6 solid;
+		}
 	</style>
 </head>
 <body>
-	<video src="video/otk1-1.mp4" width="680" height="440" controls id="lplayer">		
+	<video src="video/otk1-1.mp4" width="680" height="440" id="lplayer">		
 	</video>
 	<div class="control">
 		<div id="play" class="first_row">
 			<i class="fa fa-play" id="play_icon"></i>
 		</div>
 		<div id="progressbar" class="first_row">
-			
+			<div id="playedbar">
+			</div>
+			<div id="drag_button" onmousedown="fa()">
+			</div>
 		</div>
-		<div id="current_duration" class="first_row">
-			
+		<div id="play_time" class="first_row">
+			<input type="range" name="">
 		</div>
 		<div id="volume" class="first_row">
 			
@@ -74,6 +108,7 @@
 			
 		</div>
 	</div>
+
 	<script>
 		var video=document.getElementById("lplayer")
 		var play=document.getElementById("play");
@@ -86,6 +121,10 @@
 				document.getElementById("play_icon").className="fa fa-play"
 			}
 		};
+		function fa(){
+		var left_value=event.clientX;
+		alert(left_value);
+}
 	</script>
 </body>
 </html>

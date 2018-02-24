@@ -17,19 +17,17 @@
         	top: 50px;
         	text-align: center;
         }
-        #username{
+        .enterbox{
         	height: 40px;
         	width: 350px;
-        	margin: 0 0 30px 0;
+        	margin: 0 0 40px 0;
         	border-radius: 5px;
         	border:1px solid #B2B2B4;
         }
-        #password{
-        	height: 40px;
-        	width: 350px;
-        	margin: 0 0 30px 0;
-        	border-radius: 5px;
-        	border:1px solid #B2B2B4;
+        #answer{
+            width: 200px;
+            margin: 0 0 40px 25px;
+            float: left;
         }
         #remember_div{
         	text-align: left;
@@ -41,7 +39,7 @@
         }
         #remember{
         	position: relative;
-        	margin: 5px 0 30px 0;
+        	margin: 5px 0 40px 0;
         }
         #forgetpassword{
         	float: right;
@@ -80,15 +78,20 @@
 </c:if>-->
 <div id="loginwindow">
 	<div>
-		<img src="image/webpage/3otakus.png" width="350">
+		<img src="image/webpage/3otakus.png" width="300">
 	</div>
     <form method="post" id="form" action="login_check">
     	<div>
-        	<input type="text" placeholder="请输入账号" id="username" name="username">
+        	<input type="text" placeholder="请输入账号" id="username" name="username" class="enterbox">
     	</div>
     	<div>
-        	<input type="password" placeholder="请输入密码" id="password" name="password">
+        	<input type="password" placeholder="请输入密码" id="password" name="password" class="enterbox">
     	</div>
+        <div>
+            <input type="text" placeholder="请输入验证码" id="answer" name="answer" class="enterbox">
+        </div>
+        
+        <div style="clear: both"></div>
     	<div id="remember_div">
     		<input type="checkbox" id="remember">记住密码
     	</div>

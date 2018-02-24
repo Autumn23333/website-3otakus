@@ -21,36 +21,14 @@
         .enterbox{
         	height: 40px;
         	width: 350px;
-        	margin: 0 0 30px 0;
+        	margin: 0 0 25px 0;
         	border-radius: 5px;
         	border:1px solid #B2B2B4;
         }
-        #remember_div{
-        	text-align: left;
-        	position: relative;
-        	left: 30px;
-        	color: grey;
-        	width: 150px;
-        	float: left;
-        }
-        #remember{
-        	position: relative;
-        	margin: 5px 0 30px 0;
-        }
-        #forgetpassword{
-        	float: right;
-        	width: 150px;
-        }
-        a:link{
-        	color: grey;
-        	text-decoration: none;
-        }
-        a:visited{
-        	color: grey;
-        	text-decoration: none;
-        }
-        a:hover{
-        	color: #424242;
+        #answer{
+            width: 200px;
+            float: left;
+            margin: 0 0 25px 25px;
         }
         #signup_button{
         	background-color: #f09cb8;
@@ -74,7 +52,7 @@
 </c:if>-->
 <div id="signupwindow">
 	<div>
-		<img src="image/webpage/3otakus.png" width="350">
+		<img src="image/webpage/3otakus.png" width="300">
 	</div>
     <form method="post" id="form" action="submitsignup">
     	<div>
@@ -89,6 +67,9 @@
     	<div>
     		<input type="email" placeholder="请输入邮箱" id="email" name="email" class="enterbox">
     	</div>
+        <div>
+            <input type="text" placeholder="请输入验证码" id="answer" name="answer" class="enterbox">
+        </div>
     	<div>
         	<input type="submit" value="注        册" id="signup_button">
     	</div>
