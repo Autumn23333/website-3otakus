@@ -13,10 +13,7 @@
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous">
     </script>
-<<<<<<< HEAD
-=======
     <script src="/js/anime.js"></script>
->>>>>>> 8d712d304ca0f55b4b186ba23e9152661ef017bc
 
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
     <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
@@ -203,7 +200,7 @@
     <div id="menubook">
         <!--<img src="menulist.png">-->
         <div class="menuitem" style="margin-top: 24px">
-            <a href="anime">
+            <a href="/anime">
                 <span class="glyphicon glyphicon-play-circle word-icon"></span> 动画 / Anime
             </a>
         </div>

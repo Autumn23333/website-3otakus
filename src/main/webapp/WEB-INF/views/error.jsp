@@ -94,7 +94,7 @@
     <div id="menubook">
         <!--<img src="menulist.png">-->
         <div class="menuitem" style="margin-top: 24px">
-            <a href="anime">
+            <a href="/anime">
                 <span class="glyphicon glyphicon-play-circle word-icon"></span> 动画 / Anime
             </a>
         </div>

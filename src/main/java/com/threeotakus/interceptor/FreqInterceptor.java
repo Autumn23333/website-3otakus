@@ -31,6 +31,7 @@ public class FreqInterceptor implements HandlerInterceptor {
         String method = request.getMethod();
         String para = request.getQueryString()!=null?request.getQueryString():"";
 
+
         logger.info("ip => " + request.getRemoteAddr());
 
 //        Enumeration headerNames = request.getHeaderNames();
@@ -47,6 +48,7 @@ public class FreqInterceptor implements HandlerInterceptor {
             // One IP exceeds max request limit, all requests should be refused
             // response.setStatus(HttpServletResponse.SC_FORBIDDEN);
             response.sendRedirect("/error/403");
+
             accessLogServ.insertAccess(userIP, request.getSession().getId(), accessURL,para, method, true);
             return false;
         } else {
@@ -56,6 +58,7 @@ public class FreqInterceptor implements HandlerInterceptor {
                 // The latest access of one ip is blocked and it is still in blocking time
                 response.sendRedirect("/error/403");
                 accessLogServ.insertAccess(userIP, request.getSession().getId(), accessURL, para, method, false);
+
                 return false;
             } else {
 

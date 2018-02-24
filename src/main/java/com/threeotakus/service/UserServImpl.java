@@ -2,6 +2,9 @@ package com.threeotakus.service;
 
 import com.threeotakus.dao.UserDAO;
 import com.threeotakus.model.User;
+import com.threeotakus.utils.LoginTool;
+import com.threeotakus.utils.StringTable;
+import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -16,25 +19,27 @@ public class UserServImpl implements UserServ {
     @Override
     public User selectUserByName(String username) throws Exception {
         User user = userDAO.selectUserByName(username);
-        System.out.print(user);
         return user;
     }
 
     @Override
-    public int insertUser(String username, String password) throws Exception {
+    public int insertUser(String username, String password, String email) throws Exception {
         BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
         String hashedPassword = passwordEncoder.encode(password);
-        User newuser = new User(-1, username, hashedPassword, new Date());
+        User existedUser = userDAO.selectUserByNameEmail(username, email);
         int rs;
-        rs = userDAO.insertUser(newuser);
-        System.out.println("rs="+rs);
+        if (existedUser == null) {
+            User newuser = new User(-1, username, hashedPassword, new Date(), email);
+            rs = userDAO.insertUser(newuser);
+        } else
+            rs = -1;
         return rs;
     }
 
     @Override
-    public User checkUserLogin(String username, String password) throws Exception {
+    public User checkUserLogin(String username_email, String password) throws Exception {
         BCryptPasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
-        User user = userDAO.selectUserByName(username);
+        User user = userDAO.selectUserByNameEmail(username_email, username_email);
         if (user != null && passwordEncoder.matches(password, user.getPassword()))
             return user;
         else
@@ -49,5 +54,38 @@ public class UserServImpl implements UserServ {
         else
             return null;
 
+    }
+
+    @Override
+    public String checkUnameExisted(String uname) throws Exception {
+        JSONObject obj = LoginTool.getAPITemplate();
+        User user = selectUserByName(uname);
+        if (user == null) {
+            obj.put("code", -1);
+            obj.put("state", StringTable.getValue("UsernameExisted"));
+        } else {
+            obj.put("code", 0);
+            obj.put("state", StringTable.getValue("Success"));
+        }
+        return obj.toString();
+    }
+
+    @Override
+    public User selectUserByEmail(String email) throws Exception {
+        return userDAO.selectUserByEmail(email);
+    }
+
+    @Override
+    public String checkEmailExisted(String email) throws Exception {
+        JSONObject obj = LoginTool.getAPITemplate();
+        User user = selectUserByEmail(email);
+        if (user == null) {
+            obj.put("code", -1);
+            obj.put("state", StringTable.getValue("EmailExisted"));
+        } else {
+            obj.put("code", 0);
+            obj.put("state", StringTable.getValue("Success"));
+        }
+        return obj.toString();
     }
 }
