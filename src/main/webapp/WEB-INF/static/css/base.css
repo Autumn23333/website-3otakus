@@ -22,6 +22,7 @@ body {
 
 #menu {
     position: fixed;
+    top: 246px;
     z-index: 5;
 }
 
