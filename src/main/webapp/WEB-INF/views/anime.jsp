@@ -187,10 +187,10 @@
 <body>
 <div id="left">
     <div id="logo">
-        <a href="index.php"><img src="3otakus.png" width="300px"></a>
+        <a href="/"><img src="3otakus.png" width="300px"></a>
     </div>
     <div id="news">
-        <a href="http://3otakus.club:8000/hatuyuki/">
+        <a href="/hatuyuki/">
             <img src="news.png">
         </a>
     </div>
@@ -200,7 +200,7 @@
     <div id="menubook">
         <!--<img src="menulist.png">-->
         <div class="menuitem" style="margin-top: 24px">
-            <a href="anime">
+            <a href="/anime">
                 <span class="glyphicon glyphicon-play-circle word-icon"></span> 动画 / Anime
             </a>
         </div>
@@ -220,7 +220,7 @@
             <span class="glyphicon glyphicon-picture word-icon"></span> 图片 / Picture
         </div>
         <div class="menuitem">
-            <a href="http://3otakus.club:8000/hatuyuki">
+            <a href="/hatuyuki">
                 <i class="fa fa-desktop word-icon" aria-hidden="true"></i> Galgame online
             </a>
         </div>

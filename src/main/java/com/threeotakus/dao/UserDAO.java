@@ -10,12 +10,17 @@ public interface UserDAO {
     @Select("select * from `users` where username=#{username}")
     User selectUserByName(String username) throws Exception;
 
+    @Select("select * from `users` where email=#{email}")
+    User selectUserByEmail(String email) throws Exception;
+
+    @Select("select * from `users` where username=#{0} OR email=#{1}")
+    User selectUserByNameEmail(String username, String email) throws Exception;
+
     @Select("select * from `users` where uid=#{uid}")
     User selectUserByUId(int uid) throws Exception;
 
-    @Insert("INSERT INTO `users`(username, password, ctime) VALUES (#{username}, #{password}, #{ctime})")
+    @Insert("INSERT INTO `users`(username, password, ctime, email) VALUES (#{username}, #{password}, #{ctime}, #{email)")
     @Options(useGeneratedKeys=true,keyProperty="uid")
     int insertUser(User newuser);
-
 
 }

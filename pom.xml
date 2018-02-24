@@ -146,6 +146,12 @@
             <artifactId>json</artifactId>
             <version>20180130</version>
         </dependency>
+        <!-- epub reader-->
+        <dependency>
+            <groupId>com.github.mertakdut</groupId>
+            <artifactId>EpubParser</artifactId>
+            <version>1.0.95</version>
+        </dependency>
     </dependencies>
     <build>
         <finalName>3otakus</finalName>

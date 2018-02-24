@@ -145,7 +145,7 @@
         <img src="/image/webpage/3otakus.png" width="300px">
     </div>
     <div id="news">
-        <a href="http://3otakus.club:8000/hatuyuki">
+        <a href="/hatuyuki">
             <img src="/image/webpage/news.png">
         </a>
     </div>
@@ -175,7 +175,7 @@
             <span class="glyphicon glyphicon-picture word-icon"></span> 图片 / Picture
         </div>
         <div class="menuitem">
-            <a href="http://3otakus.club:8000/hatuyuki">
+            <a href="/hatuyuki">
                 <i class="fa fa-desktop word-icon" aria-hidden="true"></i> Galgame online
             </a>
         </div>
